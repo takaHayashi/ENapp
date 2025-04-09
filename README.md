@@ -3,7 +3,7 @@
 
 
 
-# ZXing
+# ■ZXing
 
 ## Project in Maintenance Mode Only でしたので、独自に拡張してみました
 
